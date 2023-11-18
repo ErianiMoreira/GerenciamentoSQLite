@@ -1,0 +1,7 @@
+DataBase\ClienteDAOSQLite.class
+DataBase\Conection.class
+DataBase\ClienteDAO.class
+DataBase\CreateNewTable.class
+Model\Cliente.class
+com\pss\gerenciamento\Gerenciamento.class
+Presenter\GerenciadorClienteService.class
